@@ -1,6 +1,10 @@
 #海龟作图
 import random
 import turtle
+
+
+
+
 pen = turtle.Pen()
 text = turtle.Pen()
 text1=turtle.Pen()
