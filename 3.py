@@ -14,6 +14,7 @@ def 浮点数练习题():
         print(False)
 
 
+
 def 字符串练习(strs):
     print('字符串练习题'.center(20, '*'))
 
@@ -44,7 +45,14 @@ def 方法():
     f = "This is a IPhone for AppleStore"
     print(e.join(f))
 
+def 字符比大小():
+     if "a" > "A" :
+         print(True)
+
+
+
 #浮点数练习题()
 #字符串练习(input("请输入文本\n"))
 #其他常用字符串处理方法方法()
-方法()
+#方法()
+字符比大小()
