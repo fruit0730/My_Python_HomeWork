@@ -4,7 +4,6 @@ import turtle
 
 
 
-
 pen = turtle.Pen()
 text = turtle.Pen()
 text1=turtle.Pen()
